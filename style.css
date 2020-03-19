@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: "Impact", sans-serif;
+    font-size: 5rem;
+}
+
+#searchform {
+    text-align: center;
+    padding: 20px;
+}
+
+button, input {
+    padding: 20px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+#removebtn {
+    background-color: tomato;
+}

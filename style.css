@@ -23,3 +23,9 @@ button, input {
 #removebtn {
     background-color: tomato;
 }
+
+div {
+    height: 300px;
+    width: 500px;
+    background-repeat: no-repeat;
+}
